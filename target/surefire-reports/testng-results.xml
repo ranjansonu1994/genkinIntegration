@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-01T18:57:59 IST" name="Suite1" finished-at="2021-12-01T18:58:17 IST" duration-ms="18564">
+    <groups>
+    </groups>
+    <test started-at="2021-12-01T18:57:59 IST" name="Regression1" finished-at="2021-12-01T18:58:17 IST" duration-ms="18564">
+      <class name="TestCase.Login_TC">
+        <test-method is-config="true" signature="setupMethod()[pri:0, instance:TestCase.Login_TC@26b3fd41]" started-at="2021-12-01T18:57:59 IST" name="setupMethod" finished-at="2021-12-01T18:58:11 IST" duration-ms="12642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method signature="testMethod()[pri:0, instance:TestCase.Login_TC@26b3fd41]" started-at="2021-12-01T18:58:11 IST" name="testMethod" finished-at="2021-12-01T18:58:17 IST" duration-ms="5884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+      </class> <!-- TestCase.Login_TC -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
